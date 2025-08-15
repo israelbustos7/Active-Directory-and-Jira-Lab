@@ -43,3 +43,5 @@ The lab environment is hosted in **Microsoft Azure** and documented using **Jira
 | Ticket # | Issue | Resolution |
 |----------|-------|------------|
 | HD-001   | Password reset request | Reset via Active Directory Users & Computers |
+
+![Installing AD DS](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20140846.png)
