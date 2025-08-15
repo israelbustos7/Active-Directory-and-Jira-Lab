@@ -45,3 +45,20 @@ The lab environment is hosted in **Microsoft Azure** and documented using **Jira
 | HD-001   | Password reset request | Reset via Active Directory Users & Computers |
 
 ![Installing AD DS](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20140846.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20142731.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20142731.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20142931.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20143127.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20143518.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20143825.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20155048.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20155622.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20162244.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20164051.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Server%20Manager%20enabled%20DNS%20Service.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20165532.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20165603.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/resync%20time.png)
+(https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-15%20105456.png)
+
+
