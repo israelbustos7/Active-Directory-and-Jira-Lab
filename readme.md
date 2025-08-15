@@ -44,20 +44,35 @@ The lab environment is hosted in **Microsoft Azure** and documented using **Jira
 |----------|-------|------------|
 | HD-001   | Password reset request | Reset via Active Directory Users & Computers |
 
+Installing AD DS
 ![Installing AD DS](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20140846.png)
-![Created Organizational Unites](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20142731.png)
+Created Organiational Units
+![Created Organizational Units](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20142731.png)
+Created User
 ![Created User](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20142931.png)
+Created Group Policy
 ![Created Group Policy](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20143127.png)
+Defined Password Minimum Length
 ![Defined Password Minimum Length](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20143518.png)
+Update GPU
 ![Update GPU](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20143825.png)
+Created a Client Machine VM Windows 10 Pro
 ![Created a Client Machine VM](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20155048.png)
+Ping the domain and got a response
 ![Ping the domain and got a response](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20155622.png)
+Changed domain for computer
 ![Changed domain for computer](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20162244.png)
+Tested the Connection
 ![Test connection](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20164051.png)
+Modified the TCP Port
 ![Modify port](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Server%20Manager%20enabled%20DNS%20Service.png)
+Reset password for user 
 ![Reset password for user](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20165532.png)
+Successfully reset
 ![Successful reset](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-14%20165603.png)
+Synced time
 ![synced time](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/resync%20time.png)
+Created a ticket
 ![Created a ticket](https://github.com/israelbustos7/Active-Directory-and-Jira-Lab/blob/main/Screenshot%202025-08-15%20105456.png)
 
 
